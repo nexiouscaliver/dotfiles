@@ -1,0 +1,21 @@
+[user]
+	name = Shahil Kadia
+	email = shahilkadia@gmail.com
+
+[init]
+	defaultBranch = main
+
+[pull]
+	rebase = false
+
+[push]
+	default = simple
+
+[core]
+	autocrlf = input
+
+[fetch]
+	prune = true
+
+[rerere]
+	enabled = true
